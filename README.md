@@ -11,6 +11,7 @@ Traditional surveillance systems rely heavily on manual monitoring, which is ine
 - Object abandonment  
 - Crowd congestion and anomalies  
 
+<!-- Features of the algorithms -->
 ---
 
 ## 🧠 Key Features
