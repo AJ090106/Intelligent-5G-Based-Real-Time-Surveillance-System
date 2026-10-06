@@ -12,7 +12,7 @@ cap = cv2.VideoCapture("input.mp4")
 # 7 = truck
 
 vehicle_classes = [2, 3, 5, 7]
-
+# testing comments
 while True:
     ret, frame = cap.read()
 
