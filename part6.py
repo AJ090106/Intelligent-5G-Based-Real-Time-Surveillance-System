@@ -1,8 +1,5 @@
-# License Plate Detection using YOLOv8
-# Aman Mourya will be doing this part of the project. 
-# This algorithm will detect the license plate of the vehicle and will crop it out from the frame.
-# We will be using OCR to extract the text from the license plate.
-
+# Aman Mourya's Algorithm
+# License Plate Recognition using YOLOv8 and OpenCV
 from ultralytics import YOLO
 import cv2
 
