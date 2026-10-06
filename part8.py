@@ -1,0 +1,1 @@
+#In this file we will be working on the algorithm and findings of FALL detection
