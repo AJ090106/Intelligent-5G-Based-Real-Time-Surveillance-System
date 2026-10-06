@@ -13,6 +13,7 @@ cap = cv2.VideoCapture("input.mp4")
 
 vehicle_classes = [2, 3, 5, 7]
 
+# this is the video capturing part
 while True:
     ret, frame = cap.read()
 
