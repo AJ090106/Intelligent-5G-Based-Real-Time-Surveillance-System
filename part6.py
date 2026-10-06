@@ -1,3 +1,5 @@
+# Aman Mourya's Algorithm
+# License Plate Recognition using YOLOv8 and OpenCV
 from ultralytics import YOLO
 import cv2
 
