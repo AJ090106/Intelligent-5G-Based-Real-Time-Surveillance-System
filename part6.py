@@ -17,7 +17,11 @@ cap = cv2.VideoCapture("input.mp4")
 # 7 = truck
 
 vehicle_classes = [2, 3, 5, 7]
+<<<<<<< HEAD
 
+=======
+##hello mr aman mourya
+>>>>>>> 20e31389ff7fe30f7e5cf97fe3a53a3e048433b5
 while True:
     ret, frame = cap.read()
 
